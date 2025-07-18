@@ -16,8 +16,9 @@ Cada imagem reage ao passar do mouse com **efeitos de escala**, **grayscale**, *
 
 ## 🧪 Tecnologias utilizadas
 
-- HTML5  
+- HTML5
 - CSS3 (com variáveis e transições)
+- Netlify
 - Google Fonts – [Figtree](https://fonts.google.com/specimen/Figtree)
 
 ---
