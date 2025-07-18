@@ -16,10 +16,15 @@ Cada imagem reage ao passar do mouse com **efeitos de escala**, **grayscale**, *
 
 ## 🧪 Tecnologias utilizadas
 
-- HTML5
-- CSS3 (com variáveis e transições)
-- Netlify
-- Google Fonts – [Figtree](https://fonts.google.com/specimen/Figtree)
+- 🧱 HTML5
+- 🎨 CSS3 (com variáveis e transições)
+- 🌐 Netlify - para deploy e hospedagem do projeto
+- 🔤 Google Fonts – [Figtree](https://fonts.google.com/specimen/Figtree)
+
+---
+
+## 🌐 Demonstração Online
+👉 Acesse agora: https://galeria-onepiece.netlify.app/
 
 ---
 
